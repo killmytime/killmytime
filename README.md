@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![]([https://github-readme-stats.vercel.app/api?username=killmytime&theme=dark](https://github-readme-stats-ma7z5z5ce-killmytime.vercel.app/api?username=killmytime&theme=dark)https://github-readme-stats-ma7z5z5ce-killmytime.vercel.app/api?username=killmytime&theme=dark)
+<a href="https://github.com/killmytime">
+  <img height=200 align="center" src="https://github-readme-stats-ma7z5z5ce-killmytime.vercel.app/api?username=killmytime&theme=cobalt" />
+</a>
