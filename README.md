@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/killmytime">
-  <img height=200 align="center" src="https://github-readme-stats-ma7z5z5ce-killmytime.vercel.app/api?username=killmytime&theme=cobalt" />
+  <img height=200 align="center" src="https://github-readme-stats-ma7z5z5ce-killmytime.vercel.app/api?username=killmytime&theme=cobalt&rank_icon=github" />
 </a>
